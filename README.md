@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on expanding my knowledge of Data cloud.
 - 🌱 I’m currently learning advanced ETL processes data integration and pipeline development.
-- ⚡ Fun fact: I'm also a I am also an electrical engineer and I like electrical installations.
+- ⚡ Fun fact:  I'm also an electrical engineer and I like electrical installations.
 - 📫 Reach me at **rickirama@gmail.com**
 ---
 
