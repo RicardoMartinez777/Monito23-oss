@@ -8,16 +8,13 @@
 - 🔭 I’m currently working on expanding my knowledge of Data cloud.
 - 🌱 I’m currently learning advanced ETL processes data integration and pipeline development.
 - ⚡ Fun fact: I'm also a I am also an electrical engineer and I like electrical installations.
-
+- 📫 Reach me at **rickirama@gmail.com**
 ---
 
 
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href="rickirama@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ricardo-alfonso-martinez-aza-data-engineer" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
